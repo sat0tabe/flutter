@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.sample_apps">
+    package="com.example.ksc_prekin_lt_matsuri">
    <application
-        android:label="sample_apps"
+        android:label="ksc_prekin_lt_matsuri"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

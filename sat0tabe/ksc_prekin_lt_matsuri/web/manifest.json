@@ -1,6 +1,6 @@
 {
-    "name": "sample_apps",
-    "short_name": "sample_apps",
+    "name": "ksc_prekin_lt_matsuri",
+    "short_name": "ksc_prekin_lt_matsuri",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

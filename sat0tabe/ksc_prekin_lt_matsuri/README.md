@@ -1,4 +1,4 @@
-# sample_apps
+# ksc_prekin_lt_matsuri
 
 A new Flutter project.
 
